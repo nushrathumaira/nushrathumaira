@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Language and Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="35" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" height="35" />            
+</p>
+
+##📫 How to reach me:          
