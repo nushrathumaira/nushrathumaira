@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋 I am [Nushrat Humaira](https://www.linkedin.com/in/nushrathumaira/)
+
+🔭 I am a Ph.D. candidate of Computer Science at School of Computing, Clemson University, USA. My research interest and experience encompass the field of machine learning and data science. 
+
+🌱 I am currently working on explainable AI and algorithmic fairness in conjunction with natural disaster support system. 
+
 
 <!--
 **nushrathumaira/nushrathumaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Language and Tools
