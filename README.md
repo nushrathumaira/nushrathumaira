@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" height="35"/>           
 </p>
 ##📫 Let's connect: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35"/> [Linkedin] (https://www.linkedin.com/in/nushrathumaira/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" url="https://www.linkedin.com/in/nushrathumaira/"/> [Linkedin]
           
